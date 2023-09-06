@@ -217,7 +217,7 @@ const renderLazy = async () => {
 
 每次触底加载下一页300条数据
 
-![](C:\Users\maxiaochun\AppData\Roaming\marktext\images\2023-09-06-11-18-44-10w1.gif)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/afeebdf5891441ec90fce49d3eb9252b~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image)
 
 ## 虚拟列表
 
@@ -227,7 +227,7 @@ const renderLazy = async () => {
 
 动态截取所有数据中需要渲染的数据到可视区域内
 
-![](C:\Users\maxiaochun\AppData\Roaming\marktext\images\2023-09-05-17-49-59-1693907243396.jpg)
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ef2d10b20f5445b393392e1cbb662bcd~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image)
 
 ```
 <template>
@@ -329,4 +329,4 @@ onMounted(() => {
 
 ## 实现效果图
 
-![](C:\Users\maxiaochun\AppData\Roaming\marktext\images\2023-09-06-11-14-00-10w(0).gif)
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/af729dec4b4a4551bde72091a537ac1a~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image)
