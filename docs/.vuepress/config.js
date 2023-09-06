@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Ma Xiao Chun',
-  description: '一个写给自己看的博客',
+  description: '木叶飞舞之处 火亦生生不息',
   theme: 'reco',
   base: '/blogs/',
   themeConfig: {
